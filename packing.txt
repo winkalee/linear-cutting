@@ -1,0 +1,3 @@
+
+pyinstaller -F -i "logo.ico" stockcutting.py --hidden-import PySide2.QtXml --noconsole
+
